@@ -1,3 +1,2 @@
-hello guys
-git commends are very easy
-hello i am in dev branch 
+Hello guys
+Git commands are very imp
