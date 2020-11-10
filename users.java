@@ -1,4 +1,3 @@
-this file contais all users info
-i am in dev branch
-:wq
-
+Hello i am in dev branch....
+Hello guys
+Git commands are very imp
